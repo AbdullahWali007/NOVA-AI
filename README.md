@@ -49,7 +49,7 @@ NOVA AI is a personal assistant powered by advanced speech recognition, designed
 
 Run the command to create the .exe file:
     ```bash
-    pyinstaller --onefile --name NOVA_AI --add-data "newvoices.py;." --add-data "secrets.py;." "NOVA AI.py"
+      pyinstaller --onefile --name NOVA_AI --add-data "newvoices.py;." --add-data "secrets.py;." "NOVA AI.py"
 
 ## Contributions  
 
