@@ -30,6 +30,16 @@ NOVA AI is a personal assistant powered by advanced speech recognition, designed
 3. Follow the setup instructions in the documentation.  
 4. Activate NOVA AI with your voice and explore its features.  
 
+## Convert It to .exe:
+
+1. **First**, insert your own details like APIs, phone numbers, and emails into the code.
+
+2. **Install PyInstaller** using your command prompt.  
+   You must have Python installed on your system.
+
+   ```bash
+   pip install pyinstaller
+
 ## Contributions  
 
 We welcome contributions to improve NOVA AI! Feel free to open issues or submit pull requests.  
