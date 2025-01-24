@@ -25,9 +25,10 @@ NOVA AI is a personal assistant powered by advanced speech recognition, designed
 
 ## How to Use  
 
-1. Clone the repository.  
-2. Follow the setup instructions in the documentation.  
-3. Activate NOVA AI with your voice and explore its features.  
+1. You need your own OpenWeather and newsapi.org api's.
+2. You need your own Google App Password to authenticate email services. 
+3. Follow the setup instructions in the documentation.  
+4. Activate NOVA AI with your voice and explore its features.  
 
 ## Contributions  
 
